@@ -1,0 +1,15 @@
+{
+  "description": "Sample configuration for running the Facebook Posts Search Scraper via CLI.",
+  "example_commands": [
+    "python src/main.py --query \"Andrés Iniesta retirement\" --max-posts 150 --format json --output data/iniesta_posts.json",
+    "python src/main.py --query \"AI marketing\" --max-posts 300 --format csv --output data/ai_marketing_posts.csv",
+    "python src/main.py --query \"Black Friday deals\" --max-posts 500 --format xlsx --output data/black_friday_posts.xlsx",
+    "python src/main.py --query \"World Cup\" --max-posts 200 --format html --output data/world_cup_posts.html",
+    "python src/main.py --query \"cryptocurrency news\" --max-posts 250 --format xml --output data/crypto_posts.xml"
+  ],
+  "notes": [
+    "The scraper targets public Facebook posts that appear in search results for the given query.",
+    "You may need to be logged into Facebook in the same browser profile for full results, especially for region-specific content.",
+    "Use lower max-posts values when testing, then scale up gradually."
+  ]
+}
